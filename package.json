@@ -1,0 +1,9 @@
+{
+  "name": "wizard_diff",
+  "version": "1.0.0",
+  "description": "a js module which provides classes and functions for comparing sequences. Ported from Python's difflib.",
+  "main": "index.js",
+  "repository": "https://github.com/chnyangjie/wizard_diff",
+  "author": "chnyangjie",
+  "license": "GNU General Public License v3.0"
+}
